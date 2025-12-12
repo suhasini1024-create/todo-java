@@ -85,3 +85,4 @@ MIT — feel free to use and modify the project.
 
 ## ⭐ Show Your Support
 If this project helps you learn Java, star ⭐ the repository!
+<!-- trigger CI: small edit -->
