@@ -1,3 +1,5 @@
+[![Java CI](https://github.com/suhasini1024/java-todo-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/suhasini1024/java-todo-cli/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 # Java CLI Todo Manager
 
 A simple and beginner-friendly **Todo Manager built using Java (Maven)**.  
